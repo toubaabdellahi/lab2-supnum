@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install tomcat
+yum install tomcat10
